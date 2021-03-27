@@ -1,0 +1,60 @@
+<h4>Item Features</h4>
+
+    <article class="hentry">
+        <div class="entry-container">
+            <div class="entry-header">
+                <i class="fa fa-check"></i>
+                <h2 class="entry-title">Fully Responsive</h2>
+            </div>
+          
+        </div>
+    </article>
+
+     <article class="hentry">
+        <div class="entry-container">
+            <div class="entry-header">
+                <i class="fa fa-check"></i>
+                <h2 class="entry-title">Live Customization</h2>
+            </div>
+           
+        </div>
+    </article>
+
+    <article class="hentry">
+        <div class="entry-container">
+            <div class="entry-header">
+                <i class="fa fa-check"></i>
+                <h2 class="entry-title">Translation Ready</h2>
+            </div>
+           
+        </div>
+    </article>
+
+    <article class="hentry">
+        <div class="entry-container">
+            <div class="entry-header">
+                <i class="fa fa-check"></i>
+                <h2 class="entry-title">Layout Options</h2>
+            </div>
+            
+        </div>
+    </article>
+
+<article class="hentry">
+        <div class="entry-container">
+            <div class="entry-header">
+                <i class="fa fa-check"></i>
+                <h2 class="entry-title">Browser Compability</h2>
+            </div>
+            
+        </div>
+    </article>
+<article class="hentry">
+        <div class="entry-container">
+            <div class="entry-header">
+                <i class="fa fa-check"></i>
+                <h2 class="entry-title">Easy Customization</h2>
+            </div>
+            
+        </div>
+    </article>
