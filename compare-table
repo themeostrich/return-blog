@@ -32,11 +32,6 @@
             <td><i class="fa fa-check"></i> (Yes)</td>
             <td><i class="fa fa-times"></i> (No)</td>
         </tr>
-        <tr>
-            <td><strong>Make menu Transparent</strong></td>
-            <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-times"></i> (No)</td>
-        </tr>
          <tr>
             <td><strong>Color Scheme</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
