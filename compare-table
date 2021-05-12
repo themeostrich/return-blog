@@ -35,7 +35,7 @@
          <tr>
             <td><strong>Color Scheme</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Custom CSS Option</strong></td>
@@ -45,7 +45,7 @@
         <tr>
             <td><strong>Theme Options</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Homepage Sortable</strong></td>
@@ -70,7 +70,7 @@
         <tr>
             <td><strong>Global Layout</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Single Posts Setting</strong></td>
@@ -85,27 +85,27 @@
         <tr>
             <td><strong>Archive/Blog Setting</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Footer Options Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Front Page Options</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Top bar Options</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Hero Slider</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>About Section</strong></td>
@@ -120,17 +120,17 @@
         <tr>
             <td><strong>Featured Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>CTA Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Blog Posts Section</strong></td>
             <td><i class="fa fa-check"></i> (Yes)</td>
-            <td><i class="fa fa-check"></i> (Limited)</td>
+            <td><i class="fa fa-check"></i> (Options: Limited)</td>
         </tr>
         <tr>
             <td><strong>Posts Slider Section</strong></td>
